@@ -1,0 +1,5 @@
+('CantNaranja', 1)
+('CantPeras', 3)
+('CantBananas', 1)
+('CantManzanas', 2)
+('CantNaranja', 1)
